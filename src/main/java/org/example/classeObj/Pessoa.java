@@ -1,6 +1,6 @@
 package org.example.classeObj;
 
-// basicamente a classe é um molde ou modelo para criar objetos, normalmente são exemplos da vida real
+// classe: basicamente, é um molde ou modelo para criar objetos, normalmente são exemplos da vida real
 
 // aqui é criado a classe Pessoa
 public class Pessoa {

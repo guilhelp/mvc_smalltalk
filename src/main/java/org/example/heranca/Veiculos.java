@@ -1,6 +1,6 @@
 package org.example.heranca;
 
-// basicamente, consiste em um classe herda as características de outra classe
+// herança: basicamente, consiste em um classe herda as características de outra classe
 
 // aqui é criado a classe Veiculos; será a classe que será herdada
 public class Veiculos {

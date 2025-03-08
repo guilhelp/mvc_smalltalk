@@ -1,6 +1,6 @@
 package org.example.abstracao;
 
-// basicamente a abstracao utiliza de classes abstratas ou interfaces
+// abstração: basicamente, permite ocultar os detalhes complexos da implementação e mostrar o essencial
 
 // aqui é criada uma classe abstrata chamada Eletronico, que define o comportamento comum dos eletronicos
 public abstract class Eletronico {

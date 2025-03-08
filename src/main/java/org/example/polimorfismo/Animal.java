@@ -1,6 +1,6 @@
 package org.example.polimorfismo;
 
-// basicamente, permite que métodos com o mesmo nome se comportem de maneira diferentes em classes diferentes
+// polimorfismo: basicamente, permite que métodos com o mesmo nome se comportem de maneira diferentes em classes diferentes
 
 // aqui é criado a classe Animal, que será herdada
 public class Animal {

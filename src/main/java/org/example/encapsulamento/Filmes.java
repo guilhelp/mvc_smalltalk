@@ -1,6 +1,6 @@
 package org.example.encapsulamento;
 
-// basicamente, consistem e ocultar o estado interno do objeto, permintindo o acesso a ele apenas por métodos específicos
+// encapsulamento: consiste em ocultar o estado interno do objeto, permitindo o acesso a ele apenas por métodos específicos
 
 // aqui é criado a classe Filmes
 public class Filmes {
